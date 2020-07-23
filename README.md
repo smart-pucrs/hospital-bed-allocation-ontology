@@ -1,6 +1,6 @@
 # Hospital-Bed-Allocation-Ontology
 
-By [Débora Cristina Engelmann](https://github.com/DeboraEngelmann) e  [Júlia Colleoni Couto](https://github.com/juliacolleoni)
+By [Débora Cristina Engelmann](https://github.com/DeboraEngelmann) e  [Júlia Colleoni Couto](https://github.com/juliacolleoni)  
 Published at http://repositorio.pucrs.br/dspace/bitstream/10923/15532/2/Towards_an_Ontology_to_Support_Decision_making_in_Hospital_Bed_Allocation.pdf
 
 
