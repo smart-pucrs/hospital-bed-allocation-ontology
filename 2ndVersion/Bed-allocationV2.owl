@@ -3646,8 +3646,8 @@
             </ClassAtom>
             <ObjectPropertyAtom>
                 <ObjectProperty IRI="#recebe-alta-do"/>
-                <Variable IRI="urn:swrl:var#Me"/>
                 <Variable IRI="urn:swrl:var#Pe"/>
+                <Variable IRI="urn:swrl:var#Me"/>
             </ObjectPropertyAtom>
             <ObjectPropertyAtom>
                 <ObjectProperty IRI="#ocupa-um"/>
